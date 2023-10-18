@@ -1,0 +1,57 @@
+.App {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  h2 {
+    color:#4B6C10;
+    font-size: 30px;
+  }
+  
+  label {
+    margin-right: 380px;
+    margin-left: 380px;
+    text-align: center;
+    display: flex;
+    font-size: 16px;
+  }
+  
+  input {
+    object-position: center;
+    text-align: center;
+    width: 500px;
+    height: 30px;
+    margin-bottom: 10px;
+    border-radius: 4px;
+    border: 1px solid #4B6C10;
+    margin-top: 15px;
+    margin-bottom: 15px;
+  }
+
+.boton{
+   object-position: center;
+    display: block;
+    background-color: #4B6C10;
+    margin-right: 520px;
+    margin-left: 520px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    border-radius: 10px;
+}
+h{
+    color: white;
+    margin-right: 75px;
+    margin-left: 75px;
+    margin-top: 8px;
+    text-align: center;
+    font-size: 16px;
+    font-family: Arial, sans-serif;
+}
+po{
+  display: block;
+  font-weight: bold;
+    text-align: center;
+    color:#000000;
+    font-size: 15px;
+    margin-bottom: 30px;
+}

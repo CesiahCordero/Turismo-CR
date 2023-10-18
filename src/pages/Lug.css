@@ -1,0 +1,70 @@
+.niños{
+    
+    height: 400px;
+    width: 1248px;
+  }
+  .teatro{
+    
+    height: 400px;
+    width: 1248px;
+  }
+
+  .museOro{
+    
+    height: 400px;
+    width: 1248px;
+  }
+  .RC{
+    height: 300px;
+    width: 1248px;
+  }
+  .mus{
+    
+    border-radius: 400px;
+    position:relative;
+    display: flex;
+    height: 245px;
+    width: 245px;
+    margin-left: 82px;
+    margin-right: 82px;
+    margin-top: 50px;
+  }
+  .table-simple{
+    justify-content: center;
+    text-align: center;
+    margin-left: 330px;
+    margin-right: 330px;
+    margin-top: 82px;
+    margin-bottom: 82px;
+    border: 2px solid #4B6C10;
+    border-radius: 30px;
+  }
+  p1{
+    text-align: center;
+    margin-right: 50px;
+    margin-left: 50px;
+    margin-top: 50px;
+    font-size: 50px;
+    font-family:Comic Sans MS;
+    color:#4B6C10;
+}
+p{
+  display: block;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    color:black;
+    font-size: 15px; 
+         
+}
+
+h1{
+  margin-top: 80px;
+  margin-bottom: 30px;
+  text-align: center;
+  color:#000000;
+}
+
+
+o{
+    color:#314510;
+}
